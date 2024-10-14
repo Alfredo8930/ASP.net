@@ -1,0 +1,14 @@
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\bin\Debug\net8.0\holaMundo.exe
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\bin\Debug\net8.0\holaMundo.deps.json
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\bin\Debug\net8.0\holaMundo.runtimeconfig.json
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\bin\Debug\net8.0\holaMundo.dll
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\bin\Debug\net8.0\holaMundo.pdb
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.AssemblyInfoInputs.cache
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.AssemblyInfo.cs
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.dll
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\refint\holaMundo.dll
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.pdb
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\holaMundo.genruntimeconfig.cache
+C:\Users\Alfredo_JH\Documents\Programación\C#\Proyectos_C#\ProyectosC#\holaMundo\obj\Debug\net8.0\ref\holaMundo.dll
